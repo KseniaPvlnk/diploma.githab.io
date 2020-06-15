@@ -1,0 +1,4 @@
+http://45.14.14.124:1337/admin
+
+John Doe
+password
